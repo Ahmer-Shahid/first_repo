@@ -1,1 +1,1 @@
-Hello there, It's first git repo file
+Hello there, It's first git repo file and 1st changes are made
